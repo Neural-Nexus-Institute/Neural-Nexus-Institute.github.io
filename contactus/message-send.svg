@@ -1,0 +1,19 @@
+<svg width="210mm" height="210mm" version="1.1" viewBox="0 0 210 210" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath43">
+   <rect x="-16.605" y="88.069" width="89.078" height="54.886" style="display:none;fill:none;stroke-linecap:square;stroke-miterlimit:5.4;stroke-opacity:.44836;stroke-width:1.5147;stroke:#2800ff"/>
+   <path class="powerclip" d="m32.815 51.519h144.37v106.96h-144.37zm-49.421 36.55v54.886h89.078v-54.886z" style="fill:none;stroke-linecap:square;stroke-miterlimit:5.4;stroke-opacity:.44836;stroke-width:1.5147;stroke:#2800ff"/>
+  </clipPath>
+ </defs>
+ <g transform="matrix(.86752 0 -.22313 .90205 49.292 6.6196)" clip-path="url(#clipPath43)">
+  <path x="41.315239" y="60.019272" width="127.36952" height="89.961456" ry="10.0607" d="m51.376 60.019h107.25c5.5736 0 10.061 4.4871 10.061 10.061v69.84c0 5.5736-4.4871 10.061-10.061 10.061h-107.25c-5.5736 0-10.061-4.4871-10.061-10.061v-69.84c0-5.5736 4.4871-10.061 10.061-10.061z" style="fill:none;stroke-linecap:square;stroke-miterlimit:5.4;stroke-width:7;stroke:#fff"/>
+  <path d="m164.8 62.127c-19.934 12.308-39.867 24.616-59.801 36.925-20.171-12.105-40.343-24.21-60.514-36.315" style="fill:none;font-variation-settings:normal;stop-color:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:6.831;stroke:#fff"/>
+ </g>
+ <g transform="matrix(1.0824 0 -.16038 .70108 17.809 33.518)">
+  <path transform="translate(1.8677 -3.3113)" d="m77.132 85.863h-8.9916-38.827" style="-inkscape-stroke:none;fill:none;font-variation-settings:normal;stop-color:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.0308;stroke:#fff"/>
+  <path transform="translate(-5.564 -2.3542)" d="m77.853 98.134h-28.242" style="-inkscape-stroke:none;fill:none;font-variation-settings:normal;stop-color:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.0308;stroke:#fff"/>
+  <path transform="translate(6.5311 20.115)" d="m78.329 115.35h-53.795" style="-inkscape-stroke:none;fill:none;font-variation-settings:normal;stop-color:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.0308;stroke:#fff"/>
+  <path transform="translate(7.5016 -4.7058)" d="m79.419 126.94h-38.848" style="-inkscape-stroke:none;fill:none;font-variation-settings:normal;stop-color:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.0308;stroke:#fff"/>
+  <path transform="translate(3.4126 -29.83)" d="m80.828 138.84h-69.661" style="-inkscape-stroke:none;fill:none;font-variation-settings:normal;stop-color:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.0308;stroke:#fff"/>
+ </g>
+</svg>
